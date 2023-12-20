@@ -1,5 +1,5 @@
 # Slot_Machine
-  play the game
+  
 This project is inspired from the original slot machine, where the user can play the game, and bet on the randomly generated symbols in rows and columns, and can either earn profits or loose the money.
 
 In this project, I have developed a text-based slot machine, which is originally a 3 rows and 3 columns game, but can be easily modified based on the requirement.
